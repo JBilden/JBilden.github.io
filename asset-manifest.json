@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7463add0.css",
+    "main.js": "/static/js/main.54338136.js",
+    "static/js/787.92015b3b.chunk.js": "/static/js/787.92015b3b.chunk.js",
+    "static/media/Flag_of_the_United_Kingdom.svg": "/static/media/Flag_of_the_United_Kingdom.fd46970f89e3fbca473f57e811916ea0.svg",
+    "index.html": "/index.html",
+    "static/media/Flag_of_Germany.svg": "/static/media/Flag_of_Germany.2477cd49db39e37562e424d7bb39425d.svg",
+    "main.7463add0.css.map": "/static/css/main.7463add0.css.map",
+    "main.54338136.js.map": "/static/js/main.54338136.js.map",
+    "787.92015b3b.chunk.js.map": "/static/js/787.92015b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7463add0.css",
+    "static/js/main.54338136.js"
+  ]
+}
